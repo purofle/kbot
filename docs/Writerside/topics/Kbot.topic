@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Kbot" id="Kbot">
+
+    <section-starting-page>
+        <title>KBot</title>
+        <description>
+            Welcome to use KBot, a simple kotlin telegram bot framework.
+        </description>
+
+        <spotlight>
+            <a href="Starter.md" description="Create your own Telegram Bot in 5 minutes with Kotlin" type="start"/>
+            <a href="Tutorial.md" description="Understanding Kbot's Functions" type="check-list"/>
+        </spotlight>
+
+        <primary>
+            <title>New versions continuously</title>
+            <a href="Changelog.md" description="Check recent changes"/>
+            <a href="Roadmap.md" description="Learn about Kbot's future plans"/>
+        </primary>
+
+        <secondary>
+            <title>Other important items</title>
+            <a href="Support-our-development.md" description="Support our development"/>
+        </secondary>
+
+    </section-starting-page>
+</topic>

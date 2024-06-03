@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="k"
+                 name="Kbot"
+                 start-page="Kbot.topic">
+
+    <toc-element topic="Kbot.topic"/>
+    <toc-element topic="Tutorial.md"/>
+    <toc-element topic="Starter.md"/>
+    <toc-element topic="Changelog.md"/>
+    <toc-element topic="Roadmap.md"/>
+    <toc-element topic="Support-our-development.md"/>
+</instance-profile>
