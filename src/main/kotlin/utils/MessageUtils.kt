@@ -35,6 +35,7 @@ object MessageUtils {
     }
 }
 
+@Suppress("unused")
 enum class ParseMode(val field: String) {
     MARKDOWN_V2("MarkdownV2"),
     HTML("HTML"),

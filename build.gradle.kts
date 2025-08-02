@@ -19,8 +19,8 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
 
-    api("org.telegram:telegrambots-longpolling:7.2.1")
-    api("org.telegram:telegrambots-client:7.2.1")
+    api("org.telegram:telegrambots-longpolling:9.0.0")
+    api("org.telegram:telegrambots-client:9.0.0")
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0-RC")
 
